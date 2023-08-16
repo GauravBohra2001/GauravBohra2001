@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Bohra</h1>
 <h3 align="center">Passionate about Data Engineering and Data Science</h3>
-<img align="right" alt="coding" width="400" src="[https://miro.medium.com/v2/resize:fit:1400/0*CHs47eo87tMPd_-q.gif (https://miro.medium.com/v2/resize:fit:1400/0*CHs47eo87tMPd_-q.gif)">
+<img align="right" alt="Coding" width="400" src="[https://miro.medium.com/v2/resize:fit:1400/0*CHs47eo87tMPd_-q.gif (https://miro.medium.com/v2/resize:fit:1400/0*CHs47eo87tMPd_-q.gif)">
 
 - 🌱 I’m currently learning **SQL, Docker, AWS, Tableau**
 
